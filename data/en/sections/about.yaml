@@ -8,28 +8,28 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Analyst
+designation: Data Analyst Intern
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: BYU-Pathway Worldwide
+  url: "https://www.byupathway.org/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/Sean Lee’s Resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate data analyst with 3 years of working experience. Currently, I am doing my internship at BYU-Pathway Worldwide as a data analyst. Also, I have been accepted to the MSBA(Master of Science in Business Analytics) program at University of Utah starting this Fall 2021. I am a Data Science major at BYU-Idaho and I always seek other opportunities to expand and develop my skills in the fields of big data, machine learning, and statistical analysis and research.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "shseanlee22@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/seanlee0622"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -37,7 +37,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/sean-lee-0622/"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -51,23 +51,23 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 85
-  color: blue
-- name: Team Work
+- name: R
+  percentage: 95
+  color: "#87CEEB"
+- name: Python
+  percentage: 95
+  color: "#FFD543"
+- name: SQL
   percentage: 90
-  color: yellow
-- name: Communication
-  percentage: 85
   color: pink
-- name: Hard Working
-  percentage: 85
+- name: ML
+  percentage: 95
   color: green
-- name: Fast Learner
-  percentage: 85
+- name: JAVA
+  percentage: 90
   color: sky
-- name: Problem Solving
-  percentage: 85
+- name: Power BI
+  percentage: 90
   color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
