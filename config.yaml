@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/seanlee0622/seanlee_website
+  gitRepo: https://sean-lee.netlify.app/
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
