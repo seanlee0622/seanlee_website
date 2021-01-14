@@ -3,7 +3,7 @@ name: "Sean Lee"
 nickname: "Sean"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/Sean Lee.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "seanlee@example.com"
@@ -11,9 +11,11 @@ contactInfo:
 
 # some summary about what you do
 summary:
+  - Welcome to my website
   - I am a Data Analyst
-  - I am a Devops
   - I love R
   - I love Python
+  - I also love SQL
   - I work on open-source projects
   - I love to work with some fun projects
+  - Scroll down to see more
