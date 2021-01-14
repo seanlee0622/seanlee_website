@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://sean-lee.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en
 title: "Sean's Blog"
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://sean-lee.netlify.app/
+  gitRepo: https://github.com/seanlee0622/seanlee_website
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
