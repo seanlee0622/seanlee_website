@@ -96,7 +96,7 @@ experiences:
     name: BYU-Idaho
     url: "https://www.byui.edu/"
     location: Rexburg, Idaho
-    overview: The Career Center has several remote options (VMock, Handshake, Career Workshops, BYUI Connect) available to help students stay job-market ready and help them be ready to obtain mentors, internships, and jobs.
+    # overview: 
   positions:
   - designation: Statistics Teacher’s Aide
     start: Apr 2019

@@ -21,44 +21,54 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
-
-- name: Tensorflow
+- name: Recognizing Objects with Deep Learning (CNN)
   logo: /images/sections/projects/tensorflow.png
   role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  timeline: "Sep 2020 - Dec 2020"
+  # repo: https://github.com/seanlee0622/ML_XGboost # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.cs.ryerson.ca/~aharley/vis/conv/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Building a neural network that can correctly classify German road signs. Making sure the network is robust enough to handle road signs in situations it hasn't encountered before.
+  tags: ["professional", "machine-learning", "CNN", "hobby"]
+  
+- name: Customer Behavior ML Competition
+  logo: /images/sections/projects/ml.png
+  role: Contributor
+  timeline: "Mar 2020"
+  repo: https://github.com/seanlee0622/ML_XGboost # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Achieved 1st place with team by designing an optimal machine learning model and predicted 94.11% AUC score.
+  tags: ["professional", "machine-learning"]
+
+- name: Energy Audit
+  logo: /images/sections/projects/merit.png
+  role: Team Lead and Developer
+  timeline: "Sep 2019 - Jan 2020"
+  repo: https://github.com/seanlee0622/Rbills
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
+  summary: Scraped useful information from PDF files by using R packages (tidyverse, pdftools, lubridate), built R package called Rbills to scrape all files in one, and created shinydashboard to report.
+  tags: ["professional", "academic"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Career Fair Students Survey
+  logo: /images/sections/projects/r.png
+  role: Contributor
+  timeline: "Apr 2019 - Jul 2019"
+  # url: "https://www.example.com"
+  summary: Helped students to make better decisions through Career Fair reports based on collected information of students’ responses. Acquired correlation between job and internship offers so that students can analyze the data quickly and saved 5 hours per student.
+  tags: ["academic"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Longitudinal MRI Data in Nondemented and Demented Older Adults
+  logo: /images/sections/projects/r.png
+  role: Contributor
+  timeline: "Apr 2019 - Jul 2019"
+  # repo: https://github.com/kelseyhightower/nocode
+  # url: ""
+  summary: Performed detailed and correct regression analysis, while summarizing the conclusions including model selection, validation, visualization, diagnostics, and prediction by using linear regression model.
+  tags: ["academic", "Applied Linear Regression", "hobby", "fun"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: KYO Institute
+  logo: /images/sections/projects/tree.jpg
+  role: Contributor
+  timeline: "Jan 2019 - Apr 2019"
+  # repo: https://github.com/hossainemruz/toha
+  summary: Found the difference of success rate between the client’s Institute and the national rate through a statistical hypothesis (ANOVA).
+  tags: ["academic", "Applied Linear Regression"]
