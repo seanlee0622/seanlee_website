@@ -29,6 +29,7 @@ skills:
 - name: JAVA
   logo: "/images/sections/skills/java.jpg"
   summary: "Using to create complete applications that may run on a single computer or be distributed among servers and clients in a network."
+  url: "https://www.java.com/en/"
 
 - name: Git
   logo: "/images/sections/skills/git.png"
