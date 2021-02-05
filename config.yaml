@@ -72,7 +72,7 @@ params:
   gitRepo: https://github.com/seanlee0622/seanlee_website
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
